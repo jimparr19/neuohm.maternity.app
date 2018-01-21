@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "neuohm",
+  "short_name": "neuohm",
+  "version": "io.cordova.hellocordova",
+  "description": "Mobile gateway for neuohm:maternity project",
+  "author": "Neuohm team",
+  "icons": [],
+  "start_url": "index.html"
+}
